@@ -17,6 +17,12 @@
       "conteudo": "O mundo é um lugar ruim.",
       "autoria": "Ronaldo",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Testando do Update",
+      "autoria": "CRUD",
+      "modelo": "modelo1",
+      "id": 4
     }
   ]
 }
