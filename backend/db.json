@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O mundo é um lugar incrível.",
+      "autoria": "Neymar",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O mundo é um lugar sombrio.",
+      "autoria": "Romário",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "O mundo é um lugar ruim.",
+      "autoria": "Ronaldo",
+      "modelo": "modelo3"
+    }
+  ]
+}
